@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/formulahendry-generator-mcp-badge.png)](https://mseep.ai/app/formulahendry-generator-mcp)
+
 # generator-mcp [![NPM Downloads](https://img.shields.io/npm/d18m/generator-mcp)](https://npmjs.org/package/generator-mcp)
 
 Yeoman Generator to quickly create a new MCP Server.
